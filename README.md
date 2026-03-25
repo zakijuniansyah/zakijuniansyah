@@ -67,8 +67,11 @@ Some of the projects I've worked on include e-commerce systems, inventory manage
 
 ---
 
-## 📊 GitHub Stats
+### 📫 Connect With Me
+Feel free to reach out or explore more about my work:
 
-![Zaki GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://zakijuniansyah.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/USERNAME](https://www.linkedin.com/in/zaki-juniansyah-769750252/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/USERNAME](https://github.com/zakijuniansyah))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/USERNAME](https://www.instagram.com/zakijuniansyah_/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakyjuniansyah@gmail.com)
